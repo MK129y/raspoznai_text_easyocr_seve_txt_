@@ -1,1 +1,1 @@
-# raspoznai_text_easyocr_seve_txt_
+устанавливаем easyocr с помощью pip, распознование печатного текста с картинки, ввод юзером название картинки с разрешением этой картинки, далее запись в txt файл# raspoznai_text_easyocr_seve_txt_
